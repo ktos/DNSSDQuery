@@ -1,0 +1,1 @@
+A small console app to perform DNS-SD queries on the network, using Windows 10 built-in UWP APIs.
